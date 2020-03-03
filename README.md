@@ -1,2 +1,2 @@
-# dot_files
+# dot-files
 my personal dot files
