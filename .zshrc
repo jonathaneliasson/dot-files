@@ -99,7 +99,6 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 export HOMEBREW_CASK_OPTS="--appdir=/Applications"
-export JAVA_HOME=`/usr/libexec/java_home`
 
 for file in ~/.{aliases,functions}; do
     [ -r "$file" ] && [ -f "$file" ] && source "$file";

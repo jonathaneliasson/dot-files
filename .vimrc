@@ -83,8 +83,6 @@ set showcmd " Show the (partial) command as it’s being typed
 set clipboard=unnamed   " allow yy, etc. to interact with OS X clipboard
 
 set background=dark
-colorscheme solarized
-
 
 
 " Automatic commands
